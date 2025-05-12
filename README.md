@@ -77,7 +77,8 @@ Key visuals and DAX insights:
 ## 🖼️ Dashboard Preview
 
 > *(Add a screenshot if available)*  
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](![Screenshot 2025-04-22 213634](https://github.com/user-attachments/assets/df8708a0-9856-4679-a497-07292e4da1dc)
+)
 
 ---
 
