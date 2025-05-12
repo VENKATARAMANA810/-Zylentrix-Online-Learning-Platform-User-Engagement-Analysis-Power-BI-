@@ -89,9 +89,9 @@ Key visuals and DAX insights:
 
 ## 👨‍💻 Author
 
-**[Your Full Name]**  
+**[Sunkara Venkataramana]**  
 🔗 [LinkedIn](https://www.linkedin.com/in/svramana1/) 
-📫 [Email or Portfolio]
+📫 [Vramana086@gmail.com]
 
 
 
