@@ -49,19 +49,19 @@ Key visuals and DAX insights:
 
 ## 📈 Key Insights
 
-- 👩‍🎓 Students aged **25–34** had the highest average course completion.
-- 🧭 Users from the **South zone** showed the highest average engagement time.
-- 📘 The **Python course** had the best engagement-to-feedback score ratio.
-- 🛠️ The **UI/UX track** had low completion and received below-average ratings.
-- 📊 A moderate positive correlation was found between high ratings and higher completion %.
+- 👩‍🎓 Younger students (<20) spent more time.
+- 🧭 Kolkata & Delhi students were most engaged.
+- 📘 PY202 has highest average rating (3.28).
+- 🛠️ WD404 received relatively lower ratings.
+- 📊 Weak correlation (-0.05) between completion % and feedback.
 
 ---
 
 ## 💡 Recommendations
 
-1. Re-design or repackage low-rated courses (e.g., UI/UX) to improve outcomes.
-2. Use top-rated courses (like Python) in marketing and referral campaigns.
-3. Segment learning experiences by **location and age** for personalized pathways.
+1. Offer personalized nudges to highly engaged but low-completion students.
+2. Target younger audiences with bite-sized modules.
+3. Investigate student expectations vs delivery for top engaging courses.
 
 ---
 
