@@ -77,11 +77,6 @@ Key visuals and DAX insights:
 ## 🖼️ Dashboard Preview
  ![Screenshot 2025-04-22 213634](https://github.com/user-attachments/assets/df8708a0-9856-4679-a497-07292e4da1dc)
 
- 
----
-
-
----
 
 ## 📂 Repository Structure
 📁 zylentrix-user-engagement-analysis/
@@ -89,8 +84,7 @@ Key visuals and DAX insights:
 ├── README.md                               # Project overview and documentation
 └── assets/
     └── dashboard-preview.png               # Optional visual preview
-
-    ## 👨‍💻 Author
+  ## 👨‍💻 Author
 
 **[SUNKARA VENKATARAMANA]**  
 🔗 [LinkedIn]([linkedin.com/in/svramana1](https://www.linkedin.com/in/svramana1/))  
