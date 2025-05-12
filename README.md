@@ -84,10 +84,14 @@ Key visuals and DAX insights:
 ├── README.md                               # Project overview and documentation
 └── assets/
     └── dashboard-preview.png               # Optional visual preview
-  ## 👨‍💻 Author
+ 
+---
 
-**[SUNKARA VENKATARAMANA]**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/svramana1/])  
-📫 [Vramana086@gmail.com]
+## 👨‍💻 Author
+
+**[Your Full Name]**  
+🔗 [LinkedIn](https://www.linkedin.com/in/svramana1/) 
+📫 [Email or Portfolio]
+
 
 
