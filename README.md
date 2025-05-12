@@ -82,4 +82,10 @@ Key visuals and DAX insights:
 ---
 
 ## 📂 Repository Structure
+📁 zylentrix-user-engagement-analysis/
+├── Data Analyst Intern Assignment.pbix     # Full Power BI dashboard
+├── README.md                               # Project overview and documentation
+└── assets/
+    └── dashboard-preview.png               # Optional visual preview
+
 
