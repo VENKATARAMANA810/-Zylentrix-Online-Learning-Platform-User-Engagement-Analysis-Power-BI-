@@ -77,6 +77,16 @@ Key visuals and DAX insights:
 ## 🖼️ Dashboard Preview
  ![Screenshot 2025-04-22 213634](https://github.com/user-attachments/assets/df8708a0-9856-4679-a497-07292e4da1dc)
 
+ 
+---
+
+## 👨‍💻 Author
+
+**[SUNKARA VENKATARAMANA]**  
+🔗 [LinkedIn](linkedin.com/in/svramana1)  
+📫 [Vramana086@gmail.com]
+
+
 
 ---
 
