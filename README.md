@@ -80,13 +80,6 @@ Key visuals and DAX insights:
  
 ---
 
-## 👨‍💻 Author
-
-**[SUNKARA VENKATARAMANA]**  
-🔗 [LinkedIn](linkedin.com/in/svramana1)  
-📫 [Vramana086@gmail.com]
-
-
 
 ---
 
@@ -96,5 +89,11 @@ Key visuals and DAX insights:
 ├── README.md                               # Project overview and documentation
 └── assets/
     └── dashboard-preview.png               # Optional visual preview
+
+    ## 👨‍💻 Author
+
+**[SUNKARA VENKATARAMANA]**  
+🔗 [LinkedIn]([linkedin.com/in/svramana1](https://www.linkedin.com/in/svramana1/))  
+📫 [Vramana086@gmail.com]
 
 
