@@ -87,7 +87,7 @@ Key visuals and DAX insights:
   ## 👨‍💻 Author
 
 **[SUNKARA VENKATARAMANA]**  
-🔗 [LinkedIn]([linkedin.com/in/svramana1](https://www.linkedin.com/in/svramana1/])  
+🔗 [LinkedIn]([https://www.linkedin.com/in/svramana1/])  
 📫 [Vramana086@gmail.com]
 
 
